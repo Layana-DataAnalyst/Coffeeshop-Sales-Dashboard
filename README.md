@@ -48,6 +48,13 @@ https://docs.google.com/spreadsheets/d/1IDLcXfVsg3y4VjJVLqjqFhEgVOXve7iL/edit?gi
 
 **CONCLUSION** 
 
+Through meticulous data analysis and visualization, this project reveals key insights for optimizing your coffee shop's operations. Peak transaction times, most selling product, and areas for improvement in Lower Manhattan are identified. By leveraging these findings, we can improve customer experiences, manage inventory better, and increase sales efficiency for a successful coffee shop business.
+
+
+
+
+**ACKNOWLEDGEMENT**
+
 Thank you for your interest and time to explore COFFEE SHOP SALES DASHBOARD  
 
 project. Feel free to give your valuable suggestions and feedback, connect with me on:   
