@@ -25,8 +25,15 @@ Google sheet.
 
 2.Explore data with Pivot tables. 
 
-3. Build dashboard 
+3.Build dashboard
 
+
+
+**DASHBOARD**
+
+Below is the link to "Coffee Shop Sales Dashboard" project.
+
+https://docs.google.com/spreadsheets/d/1IDLcXfVsg3y4VjJVLqjqFhEgVOXve7iL/edit?gid=776645155#gid=776645155
 
 
 **INSIGHTS** 
